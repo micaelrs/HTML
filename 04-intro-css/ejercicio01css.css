@@ -1,0 +1,11 @@
+/* Estilo para el primer elemento de una lista desordenada */
+ul li:first-child {
+    color: red;
+    font-size: 2rem;
+  }
+  
+  /* Estilo para el primer elemento de una lista ordenada */
+  ol li:first-child {
+    color: red;
+    font-size: 2rem;
+  }

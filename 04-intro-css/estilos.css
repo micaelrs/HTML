@@ -1,0 +1,27 @@
+h1 {
+    color:crimson;
+}
+
+/*Estoy probando los colores*/
+p {
+    color:blue; 
+    font-size: 16pt;
+}
+
+#primera-noticia {
+    color:greenyellow;
+    font-size:13pt; 
+}
+
+#segunda-noticia {
+    color:blueviolet;
+}
+
+.encabezado {
+    font-size: 30pt;
+    text-decoration: uppercase;
+}
+
+* {
+    color:yellow
+}
