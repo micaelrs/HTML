@@ -5,7 +5,7 @@ ul li:first-child {
   }
   
   /* Estilo para el primer elemento de una lista ordenada */
-  ol li:first-child {
+ol li:first-child {
     color: red;
-    font-size: 2rem;
+    
   }
